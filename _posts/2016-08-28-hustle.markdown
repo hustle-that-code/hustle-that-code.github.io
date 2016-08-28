@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Hustle time"
+date:   2016-08-28 02:04:32 -0400
+categories: jekyll update
+---
+
+# Lets Hustle
+
+## This guide is to go from zero experience to making that money
+If you follow along with the guide, work your ass off, and understand the concepts,
+you will be employable in about 6 months. So, you already made the decision to start,
+or you wouldn't be here. So what first?

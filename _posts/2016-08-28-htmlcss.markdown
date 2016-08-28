@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "HTML CSS"
+date:   2016-08-28 02:04:32 -0400
+categories: jekyll update
+---
+
+# HTML/CSS
+HTML are the bones and the meat of a webpage. So we need a solid understanding before moving on.
+
+HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices.[1]
+
+Spend 1 month getting comfortable with HTML/CSS, and use it to build a basic website.
+
+## Resources
+Here are some popular tutorials on HTML/CSS, but go ahead and use something else if you think its better.
+<https://www.codecademy.com/learn/web>
+<https://www.khanacademy.org/computing/computer-programming/html-css>
+<http://www.w3schools.com/html/default.asp>
+<https://www.udacity.com/course/intro-to-html-and-css--ud304>
+
+
+[1]: https://www.w3.org/standards/webdesign/htmlcss
